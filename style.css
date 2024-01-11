@@ -21,40 +21,42 @@ text-align: center;
 margin: auto 2em;
 }
 
-section {
+section {text-align: center;
 margin: auto 1em 4em 2em;
 }
 
-p {
+p {text-align: center;
 margin: .2em auto
 }
 
-hr {
+hr {text-align: center;
 border: none;
 background-color: lightgray;
 height: 1px;
 }
 
-h1, h2, h3 {background-color: rgba(202, 110, 110, 0.267);
+h1, h2, h3 {text-align: center;
+    background-color: rgba(202, 110, 110, 0.267);
 font-weight: 100;
 margin-bottom: 0;
 }
 
 
 
-h1 {background-color: rgba(236, 136, 136, 0.126);
+h1 {text-align: center;
+    background-color: rgba(236, 136, 136, 0.126);
 font-size: 3em;
 letter-spacing: .6em;
 padding-top: 1em;
 padding-bottom: 1em;
 }
 
-h2 {
+h2 {text-align: center;
 font-size: 1.5em;
 padding-bottom: 1em;
 }
 
-h3 {
+h3 {text-align: center;
 font-size: 1em;
 padding-bottom: 1em;
 }
