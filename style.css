@@ -51,7 +51,7 @@ height: 1px;
 }
 
 h1, h2, h3 {text-align: center;
-    background-color: rgba(202, 110, 110, 0.267);
+    background-color: rgba(202, 110, 110, 0.093);
 font-weight: 100;
 margin-bottom: 0;
 }
@@ -59,7 +59,7 @@ margin-bottom: 0;
 
 
 h1 {text-align: center;
-    background-color: rgba(249, 249, 249, 0.126);
+    background-color: rgba(255, 255, 255, 0.284);
 font-size: 3em;
 letter-spacing: .6em;
 padding-top: 1em;
