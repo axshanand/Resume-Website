@@ -63,3 +63,12 @@ font-size: 1em;
 padding-bottom: 1em;
 }
 
+<script>
+    var typed = new Typed(".auto-type",{
+        strings: ["AISHWARYA ANAND"],
+        typeSpeed: 150,
+        backSpeed: 150,
+        loop:true
+    })
+</script>
+
